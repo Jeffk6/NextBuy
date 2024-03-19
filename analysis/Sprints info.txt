@@ -1,0 +1,5 @@
+Sprint 1 :
+    Day 1 :
+	problem: choseing colors without making design (to fix it do digram first)
+	done: chosing fonts and some colors
+	to do: chose the left colors

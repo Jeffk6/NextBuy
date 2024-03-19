@@ -1,0 +1,7 @@
+Dark mode:
+--#25232E (background)
+--##f2f2f2 (font)
+
+Light mode:
+--#25232E (font)
+--##f2f2f2 (background)
